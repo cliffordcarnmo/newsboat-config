@@ -1,0 +1,21 @@
+articlelist-format "%-12T|%t"
+datetime-format "%F - %R"
+cleanup-on-quit yes
+feed-sort-order title-dec
+prepopulate-query-feeds yes
+refresh-on-startup yes
+auto-reload yes 
+reload-time 1
+show-read-articles yes
+show-read-feeds yes
+datetime-format "%F - %R"
+ignore-article "*" "title =~ \"sport\""
+ignore-article "*" "title =~ \"sponsor\""
+ignore-article "*" "title =~ \"advertisement\""
+ignore-mode "display"
+color info green black bold
+color listnormal white default
+color listfocus green default
+color listnormal_unread green default
+color listfocus_unread white default
+color article white default
