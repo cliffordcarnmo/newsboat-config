@@ -3,4 +3,5 @@ https://api.sr.se/api/rss/program/83 news
 https://www.svt.se/nyheter/rss.xml news
 http://rss.cnn.com/rss/edition.rss news
 http://feeds.bbci.co.uk/news/rss.xml news
+https://hnrss.org/frontpage news
 "query:news:tags # \"news\""
